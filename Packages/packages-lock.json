@@ -249,6 +249,16 @@
       },
       "url": "https://packages.unity.com"
     },
+    "visualscripting.extensions.xrit": {
+      "version": "https://github.com/RoadToTheMetaverse/visualscripring.xrinteractiontoolkit.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.visualscripting": "1.7.6",
+        "com.unity.xr.interaction.toolkit": "2.0.2"
+      },
+      "hash": "55e7842be95a30fc01da7d6cc7291b97a9fec75a"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
